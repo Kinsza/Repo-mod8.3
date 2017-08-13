@@ -12,10 +12,11 @@ console.log('Hello, ' + name);
 
 //New task - Mod 8.5
 /*
-var a = prompt ('a');
-var h = prompt ('h');
+var a = prompt('a');
+var h = prompt('h');
 var triangleArea = a*h/2;
 
 alert('wynik, ' + triangleArea);
 
-console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);*/
+console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
+*/
