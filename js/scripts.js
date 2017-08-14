@@ -14,7 +14,7 @@ console.log('Hello, ' + name);
 /*
 var a = prompt('a');
 var h = prompt('h');
-var triangleArea = a*h/2;
+var triangleArea = a * h / 2;
 
 alert('wynik, ' + triangleArea);
 
@@ -23,9 +23,9 @@ console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is eq
 
 //New Task - Mod 8.6
 /*
-var a = prompt ('a');
-var b = prompt ('b');
-var value = (a*a)+(2*a*b)-(b*b);
+var a = prompt('a');
+var b = prompt('b');
+var value = (a * a) + (2 * a * b) - (b * b);
 
 if (value > 0) {
     alert('Wynik dodatni , ' + value)
@@ -39,11 +39,11 @@ console.log(value);
 
 //Extra Task for Paweł
 /*
-var answer = prompt ('Ile wynosi 2+2?', '');
+var answer = prompt('Ile wynosi 2+2?');
 
 if (answer == '4') {
     alert('Jesteś genialny!')
-} else if (answer == '3' || answer =='5') {
+} else if (answer == '3' || answer == '5') {
     alert('Spróbuj jeszcze raz')
 } else {
     alert('Wróć do szkoły podstawowej i powtórz wiadomości!')
